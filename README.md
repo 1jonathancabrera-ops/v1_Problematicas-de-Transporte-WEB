@@ -13,7 +13,6 @@ mediante diferentes métodos de optimización.
 ## Tecnologías
 
 - HTML
-- CSS
 - JavaScript
 
 ## Funcionalidades
